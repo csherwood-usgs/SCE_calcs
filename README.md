@@ -21,4 +21,4 @@ This resides in ..\proj\2019_DorianOBX on my TIC laptop.
 
 ### Example Plot from `random_select_variogram.m`
 
-#![Image description](link-to-image)
+![Example plot](/box09map1.png)
